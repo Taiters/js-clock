@@ -1,0 +1,13 @@
+{
+  "name": "clock",
+  "version": "1.0.0",
+  "description": "A clock...",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Daniel Tait <dantait91@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^4.0.0"
+  }
+}
